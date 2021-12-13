@@ -1,0 +1,10 @@
+1 lundi midi b c d   
+2 lundi soir n n n   
+3 mardi midi h h h   
+4 mardi soir v v v   
+5 Mercredi midi s s s   
+6 Mercredi soir d d d   
+7 jeudi midi a a a   
+8 Jeudi soir z z z   
+9 Vendredi midi e e e   
+10 Vendredi soir n n n   
